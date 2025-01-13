@@ -19,7 +19,7 @@ body {
 /* Header */
 /* Hero Section Background */
 .header {
-    background: url('./bg1.jpg') no-repeat center center/cover;
+    background: url('./bg1.webp') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 60px 0;
